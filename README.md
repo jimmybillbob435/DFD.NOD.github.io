@@ -8,3 +8,4 @@
     <p>This basic HTML site is successfully hosted on GitHub Pages.</p>
 </body>
 </html>
+index.html
